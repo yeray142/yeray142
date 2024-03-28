@@ -6,27 +6,27 @@ I'm a passionate learner and practitioner in the fields of **Machine Learning**,
 
 ### 💻 Work Experience
 
-| Position        | Company          | Start Date | End Date   | Responsibilities                                                    |
-|-----------------|------------------|------------|------------|---------------------------------------------------------------------|
-| Student Intern  | NTT Data: Spain  | 09/2023    | Present    | <ul><li>Java coding assistance</li><li>Project management</li></ul> |
+| Position        | Company          | Start Date | End Date   | Responsibilities                                                    
+|-----------------|------------------|------------|------------|---------------------------------------------------------------------
+| Student Intern  | NTT Data: Spain  | 09/2023    | Present    | <ul><li>Java coding assistance</li><li>Project management</li></ul> 
 
 
 ### 🔬 Research
 
 I'm involved with the **Computer Vision Center** for **Quantum Computing** research in the QML group.
 
-| Position        | Institution/Organization       | Start Date | End Date   | Research Area                  | Specific fields                                                                                               |
-|-----------------|--------------------------------|------------|------------|--------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Research Intern | Computer Vision Center (CVC)   | 03/2024    | Present    | Quantum Machine Learning (QML) | <ul><li>Quantum Graph Neural Networks (QGNN)</li><li>Quantum Reinforcement Learning (Quantum RL)</li></ul> |
+| Position        | Institution/Organization       | Start Date | End Date   | Research Area                  
+|-----------------|--------------------------------|------------|------------|--------------------------------
+| Research Intern | Computer Vision Center (CVC)   | 03/2024    | Present    | Quantum Machine Learning (QML) 
 
 ### 🎓 Education
 
 I hold a degree in **Computer Science**, which has provided me with a strong foundation in algorithmic thinking, software development, and the theoretical aspects of computing.
 
-| Degree           | Institution                        | Location      | Start Date | End Date   | Highlights                                                                                                                                                                                                                                      |
-|------------------|------------------------------------|---------------|------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bachelor's in Computer Science | UAB Universitat Autònoma de Barcelona | Barcelona, Spain | 09/2023    | Present    | <ul><li>Gained a strong foundation in algorithmic thinking, software development, and theoretical aspects of computing.</li><li>Participated in various projects, workshops, and seminars to enhance practical skills and theoretical knowledge.</li></ul> |
-| Undergraduate Exchange Student | CAU Chung-Ang University (중앙대학교)     | Seoul, Korea         | 09/2022    | 07/2023    | <ul><li>Studied computation specific courses as part of the exchange program.</li><li>Immersed in Korean culture, enhancing cross-cultural communication skills and global perspective.</li></ul>                                |
+| Degree           | Institution                        | Location      | Start Date | End Date   
+|------------------|------------------------------------|---------------|------------|------------
+| Bachelor's in Computer Science | UAB Universitat Autònoma de Barcelona | Barcelona, Spain | 09/2023    | Present    
+| Undergraduate Exchange Student | CAU Chung-Ang University (중앙대학교)     | Seoul, Korea         | 09/2022    | 07/2023   
 
 
 ### 🛠️ Skills
