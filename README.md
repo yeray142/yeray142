@@ -25,7 +25,7 @@ I hold a degree in **Computer Science**, which has provided me with a strong fou
 
 | Degree           | Institution                        | Location      | Start Date | End Date   
 |------------------|------------------------------------|---------------|------------|------------
-| Bachelor's in Computer Science | UAB Universitat Autònoma de Barcelona | Barcelona, Spain | 09/2023    | Present    
+| Bachelor's in Computer Science | UAB Universitat Autònoma de Barcelona | Barcelona, Spain | 09/2020    | Present    
 | Undergraduate Exchange Student | CAU Chung-Ang University (중앙대학교)     | Seoul, Korea         | 09/2022    | 07/2023   
 
 
