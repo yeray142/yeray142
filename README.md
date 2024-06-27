@@ -28,6 +28,56 @@ I hold a degree in **Computer Science**, which has provided me with a strong fou
 | Bachelor's in Computer Science | UAB Universitat Autònoma de Barcelona | Barcelona, Spain | 09/2020    | Present    
 | Undergraduate Exchange Student | CAU Chung-Ang University (중앙대학교)     | Seoul, Korea         | 09/2022    | 07/2023   
 
+### 🎯 Projects
+#### 1. EYMO - Compact Robot with Voice Assistant
+**Description:**
+Eymo is a compact robotic companion blending machine learning and generative AI to create personalized and interactive experiences. It learns from its interactions, offering customized conversations, entertainment, and learning opportunities. Eymo is the perfect blend of technology and companionship, making every moment more engaging and enjoyable.
+
+**Features:**
+- **Voice Assistant**: Eymo includes a voice assistant that leverages cloud technology for advanced speech recognition. This enables Eymo to understand and respond to a wide range of voice commands, making interactions smooth and intuitive.
+- **Mobile Control**: Eymo can be controlled via dedicated mobile applications available for both Android and iOS. These apps provide a user-friendly interface to manage Eymo's functions, send commands, and receive updates, ensuring you stay connected with your robotic companion at all times.
+- **Obstacle Detection and Avoidance**: Eymo is equipped with sensors that detect obstacles and prevent it from colliding with objects or falling off edges, such as tables. This feature ensures Eymo navigates safely and reliably in various environments.
+
+**Repository:** [EYMO - Compact Robot](https://github.com/xavi-burgos99/eymo)
+
+---
+
+#### 2. QDraw - Google's Quick Draw reimagination using quantum computing
+
+**Description:**
+QDraw leverages the power of quantum computing through the Qiskit framework, in conjunction with the robust machine learning capabilities of PyTorch, to provide an advanced sketch recognition system. This project aims to push the boundaries of what's possible in the realm of digital sketch analysis by harnessing the parallel processing and unique problem-solving capabilities of quantum algorithms.
+
+**Features:**
+- **Software:** Qiskit for quantum computing, PyTorch for machine learning.
+- **Capabilities:** Advanced sketch recognition, quantum-enhanced processing, and efficient digital sketch analysis.
+
+**Repository:** [QDraw - Sketch Recognition](https://github.com/yeray142/QDraw)
+
+---
+
+#### 3. QML-QGNN - Quantum Computing for TSP
+
+**Description:**
+QML-QGNN focuses on exploring Quantum Computing solutions to the Travelling Salesperson Problem (TSP). The primary objective is to learn and research Quantum Computing concepts, using the TSP as a practical application. A key component of the project is the development of a Reinforcement Learning model utilizing Equivariant Quantum Circuits.
+
+**Features:**
+- **Software:** Qiskit for quantum computing, custom algorithms for TSP.
+- **Capabilities:** Exploration of quantum algorithms, reinforcement learning with Equivariant Quantum Circuits, and practical applications for TSP.
+
+**Repository:** [QML-QGNN - Quantum TSP](https://github.com/yeray142/QML-QGNN)
+
+---
+
+#### 4. Hack_FGC - Inclusive Train Ticketing Application
+
+**Description:**
+Hack_FGC is an application developed to address the challenge presented by Ferrocarrils de la Generalitat de Catalunya at UAB The Hack 2024. The challenge focuses on enhancing inclusivity for vulnerable individuals in public transportation, specifically through improvements to the train ticket vending machines.
+
+**Features:**
+- **Functionality:** Enhanced user interface for accessibility and features for seamless ticket purchasing.
+- **Objective:** Improve accessibility and user experience for vulnerable populations in public transport.
+
+**Repository:** [Hack_FGC - Inclusive Ticketing](https://github.com/GabrielJuan349/Hack_FGC)
 
 ### 🛠️ Skills
 
