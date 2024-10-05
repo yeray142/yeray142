@@ -8,7 +8,7 @@ I'm a passionate learner and practitioner in the fields of **Machine Learning**,
 
 | Position        | Company          | Start Date | End Date   | Responsibilities                                                    
 |-----------------|------------------|------------|------------|---------------------------------------------------------------------
-| Student Intern  | NTT Data: Spain  | 09/2023    | Present    | <ul><li>Java coding assistance</li><li>Project management</li></ul> 
+| Student Intern  | NTT Data: Spain  | 09/2023    | 07/2024    | <ul><li>Java coding assistance</li><li>Project management</li></ul> 
 
 
 ### 🔬 Research
@@ -25,7 +25,8 @@ I hold a degree in **Computer Science**, which has provided me with a strong fou
 
 | Degree           | Institution                        | Location      | Start Date | End Date   
 |------------------|------------------------------------|---------------|------------|------------
-| Bachelor's in Computer Science | UAB Universitat Autònoma de Barcelona | Barcelona, Spain | 09/2020    | Present    
+| Master's in Computer Vision | UAB, UPF, UPC, UB, UOC | Barcelona, Spain | 09/2024 | Present
+| Bachelor's in Computer Science | UAB Universitat Autònoma de Barcelona | Barcelona, Spain | 09/2020    | 07/2024    
 | Undergraduate Exchange Student | CAU Chung-Ang University (중앙대학교)     | Seoul, Korea         | 09/2022    | 07/2023   
 
 ### 🎯 Projects
