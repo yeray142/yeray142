@@ -17,8 +17,8 @@ I'm involved with the **Computer Vision Center** for **Quantum Computing** resea
 
 | Position        | Institution/Organization       | Start Date | End Date   | Research Area                  
 |-----------------|--------------------------------|------------|------------|--------------------------------
-| Student Assistant | Qpurpose, Southern Denmark University   | 11/2025    | Present    | Quantum Machine Learning (QML) 
-| Research Intern | Computer Vision Center (CVC)   | 03/2024    | Present    | Quantum Machine Learning (QML) 
+| Student Assistant | Qpurpose, Southern Denmark University   | 11/2025    | Present    | Quantum Machine Learning (QML), Drug Discovery
+| Research Intern | Computer Vision Center (CVC)   | 03/2024    | Present    | Quantum Machine Learning (QML), 3D Vision
 
 ### 🎓 Education
 
