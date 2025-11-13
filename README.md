@@ -26,7 +26,7 @@ I hold a degree in **Computer Science**, which has provided me with a strong fou
 
 | Degree           | Institution                        | Location      | Start Date | End Date   
 |------------------|------------------------------------|---------------|------------|------------
-| Master's in Quantum Computing | Southern Denmark University | Odense, Denmark | 09/2025 | Present
+| Master's in Quantum Computing | SDU Southern Denmark University | Odense, Denmark | 09/2025 | Present
 | Master's in Computer Vision | UAB, UPF, UPC, UB, UOC | Barcelona, Spain | 09/2024 | 09/2925
 | Bachelor's in Computer Science | UAB Universitat Autònoma de Barcelona | Barcelona, Spain | 09/2020    | 07/2024    
 | Undergraduate Exchange Student | CAU Chung-Ang University (중앙대학교)     | Seoul, Korea         | 09/2022    | 07/2023   
